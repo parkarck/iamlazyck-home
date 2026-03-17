@@ -412,6 +412,20 @@ img {
   color: var(--text-muted);
 }
 
+.footer-contact {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 8px;
+}
+
+.footer-contact a {
+  color: var(--text-muted);
+}
+
+.footer-contact a:hover {
+  color: var(--accent);
+}
+
 /* Page styles (about, privacy) */
 .page-content h1 {
   font-size: 2rem;
