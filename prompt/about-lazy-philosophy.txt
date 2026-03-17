@@ -1,0 +1,5 @@
+about-lazy-philosophy.png
+Article: about.html (소개 페이지)
+Insert after: "iamlazyck이 뭔데?" 섹션 상단
+
+Flat vector illustration on dark background #1a1a1a. A simple stick figure silhouette lounging lazily on a couch (reclined posture, one arm behind head), but with a small gold (#ffd700) glowing lightbulb above the head indicating a clever idea. Next to the couch, a smartphone screen outline shows a simple push-up counter UI (just a circle with an upward arrow). A subtle gold dotted line connects the lightbulb to the phone, implying "lazy idea becomes useful app." The figure is in white/light gray, the couch is a minimal geometric shape in dark gray (#333). Small gold sparkle accents around the phone. Minimalist style, no text, humorous and lighthearted mood, compact square composition. 800x800 resolution.

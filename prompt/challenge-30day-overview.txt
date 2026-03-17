@@ -1,0 +1,5 @@
+challenge-30day-overview.png
+Article: challenge-30day (30일 푸시업 챌린지)
+Insert after: 챌린지 개요/소개 섹션
+
+Flat vector illustration on dark background #1a1a1a. Horizontal timeline showing 30-day push-up challenge progression divided into 4 weekly segments. The timeline runs left to right as an ascending stepped bar chart or staircase shape. Week 1 (days 1-7): low gold (#ffd700) bars. Week 2 (days 8-14): medium height bars. Week 3 (days 15-21): taller bars. Week 4 (days 22-30): tallest bars with a gold star/burst at the peak on day 30. Each week segment separated by subtle vertical dotted lines. The bars gradually increase in height within each week, with small rest day gaps (lower bars in gray). A smooth gold curve line overlays the bars showing the overall volume trend upward. Minimalist style, no text, clean data visualization aesthetic. 1400x500 resolution.

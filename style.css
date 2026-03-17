@@ -440,6 +440,27 @@ img {
   margin-bottom: 6px;
 }
 
+/* Article Images */
+.article-image {
+  margin: 24px 0;
+  text-align: center;
+}
+
+.article-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+}
+
+.article-image figcaption {
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
 /* Responsive */
 @media (max-width: 640px) {
   .hero h1 {

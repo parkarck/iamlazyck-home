@@ -1,0 +1,5 @@
+advanced-programming.png
+Article: advanced-tips (고급 팁)
+Insert after: 주간 프로그래밍 구조 설명 섹션
+
+Flat vector illustration on dark background #1a1a1a. Three-column layout representing a weekly training program structure. Left column (Strength day): a heavy barbell/weight icon with a silhouette figure doing diamond push-ups, bold gold (#ffd700) accent, few reps indicated by 3 large dots. Center column (Endurance day): a clock/timer icon with a silhouette figure doing standard push-ups, medium gold accent, many reps indicated by many small dots in a row. Right column (Power day): a lightning bolt icon with a silhouette figure doing explosive/clap push-ups with motion lines, bright gold accent, medium dots with burst effects. Each column has a distinct icon at the top inside a gold-outlined circle. Columns separated by subtle vertical lines in dark gray. A gold bracket or bar at the top connects all three, suggesting they form one complete week. Minimalist style, no text, clean structured layout. 1200x700 resolution.

@@ -1,0 +1,5 @@
+mistakes-elbow-angle.png
+Article: common-mistakes (흔한 실수)
+Insert after: 팔꿈치 각도 실수 설명 섹션
+
+Flat vector illustration on dark background #1a1a1a. Top-down bird's eye view showing two push-up positions. Left (incorrect): silhouette figure with elbows flared out to the sides forming a T-shape with the body, arms at 90 degrees from torso, highlighted with red-orange (#ff6b6b) X mark and red accent on elbow joints. Right (correct): silhouette figure with elbows tucked at approximately 45-degree angle forming an arrow shape, highlighted with gold (#ffd700) checkmark and gold accent on elbow joints. Gold angle indicator showing the 45-degree angle on the correct side. Red angle indicator showing the 90-degree flare on the incorrect side. Vertical divider between the two. Minimalist style, no text, simple geometric body shapes. 1200x600 resolution.
