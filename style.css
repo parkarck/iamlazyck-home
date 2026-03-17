@@ -199,11 +199,6 @@ img {
   border-color: var(--accent);
 }
 
-.article-card .card-emoji {
-  font-size: 2rem;
-  margin-bottom: 12px;
-}
-
 .article-card h3 {
   font-size: 1.1rem;
   font-weight: 600;
